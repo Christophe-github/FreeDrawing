@@ -7,7 +7,7 @@ This app allows to draw different figures with one finger. You can move
 the canvas or zoom out with two fingers.
 
 It is also possible to draw in **multiplayer** mode by connecting to the
-free drawing server and joining a room.
+[free drawing server](https://github.com/Christophe-github/FreeDrawingServer) and joining a room.
 
 
 
@@ -24,7 +24,7 @@ Features:
 * Connect to the multiplayer server, join or create a room, and draw simultaneously with other people! 🧑🧑🧑
 
 
-Multiplayer with web server relies on websockets, thank to [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) for making this possible
+Multiplayer with web server relies on websockets, thanks to [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) for making this possible
 
 ## Compatibility
 
